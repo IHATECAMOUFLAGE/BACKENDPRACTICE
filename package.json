@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/IHATECAMOUFLAGE/BACKENDPRACTICE/issues"
   },
-  "homepage": "https://github.com/IHATECAMOUFLAGE/BACKENDPRACTICE#readme"
+  "homepage": "https://github.com/IHATECAMOUFLAGE/BACKENDPRACTICE#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
